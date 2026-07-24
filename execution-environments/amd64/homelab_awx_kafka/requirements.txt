@@ -21,4 +21,4 @@ google-cloud-storage==3.1.0
 pypsrp>=0.8.1
 confluent-kafka>=2.11.1
 passlib==1.7.4
-pyOpenSSL<24.3.0
+pyOpenSSL==26.0.0
